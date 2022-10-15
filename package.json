@@ -1,5 +1,5 @@
 {
-  "name": "@fubaydullaev/nativescript-epub-folio",
+  "name": "nativescript-epub-reader",
   "version": "1.0.1",
   "description": "Nativescript Folio epub reader",
   "main": "index.d.js",
